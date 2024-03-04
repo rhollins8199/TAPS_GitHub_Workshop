@@ -9,7 +9,7 @@ This workshop is broken up into 6 parts:
 - **[Part Three:](https://github.com/rhollins8199/TAPS_GitHub_Workshop?tab=readme-ov-file#cactus-part-three-manage-branches)** Manage Branches :cactus:
 - **[Part Four:](https://github.com/rhollins8199/TAPS_GitHub_Workshop?tab=readme-ov-file#-part-four-update--manage-files)** Update & Manage Files 📝 
 - **[Part Five:](https://github.com/rhollins8199/TAPS_GitHub_Workshop?tab=readme-ov-file#-part-five-sync-forked-repo)** Sync Forked Repo 🔄
-- **[Part Six:](https://github.com/rhollins8199/TAPS_GitHub_Workshop?tab=readme-ov-file#-part-six-merge-updates-into-workshop-repo)** Merge Updates into Repo & Create Pull Request🤝
+- **[Part Six:](https://github.com/rhollins8199/TAPS_GitHub_Workshop?tab=readme-ov-file#-part-six-merge-updates-into-repo--create-pull-request)** Merge Updates into Repo & Create Pull Request🤝
 
 *Note: Additional Git resources are available within the PowerPoint folder. Download the PDF version of the PPT to access the links.*
 
