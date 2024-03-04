@@ -7,9 +7,9 @@ This workshop is broken up into 6 parts:
 - **[Part One:](https://github.com/rhollins8199/TAPS_GitHub_Workshop?tab=readme-ov-file#computer-part-one-install--configure-git)** Install & Configure Git :computer:
 - **[Part Two:](https://github.com/rhollins8199/TAPS_GitHub_Workshop?tab=readme-ov-file#fork_and_knife-part-two-fork--clone-repo)** Fork & Clone Repo :fork_and_knife:
 - **[Part Three:](https://github.com/rhollins8199/TAPS_GitHub_Workshop?tab=readme-ov-file#cactus-part-three-manage-branches)** Manage Branches :cactus:
-- **[Part Four:](https://github.com/rhollins8199/TAPS_GitHub_Workshop?tab=readme-ov-file#-part-four-update--manage-files)** Update & Commit Files 📝 
-- **[Part Five:](https://github.com/rhollins8199/TAPS_GitHub_Workshop?tab=readme-ov-file#-part-five-sync-forked-repo)** Push Changes to Forked Repo 🔄
-- **[Part Six:](https://github.com/rhollins8199/TAPS_GitHub_Workshop?tab=readme-ov-file#-part-six-merge-updates-into-repo--create-pull-request)** Merge Branches & Create Pull Request to Workshop Repo🤝
+- **[Part Four:](https://github.com/rhollins8199/TAPS_GitHub_Workshop?tab=readme-ov-file#-part-four-update--commit-files)** Update & Commit Files 📝 
+- **[Part Five:](https://github.com/rhollins8199/TAPS_GitHub_Workshop?tab=readme-ov-file#-part-five-push-changes-to-forked-repo)** Push Changes to Forked Repo 🔄
+- **[Part Six:](https://github.com/rhollins8199/TAPS_GitHub_Workshop?tab=readme-ov-file#-part-six-merge-branches--create-pull-request-to-workshop-repo)** Merge Branches & Create Pull Request to Workshop Repo🤝
 
 *Note: Additional Git resources are available within the PowerPoint folder. Download the PDF version of the PPT to access the links.*
 
