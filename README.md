@@ -52,12 +52,12 @@ git config --list
 ## :fork_and_knife: Part Two: Fork & Clone Repo
 
 <strong>1.</strong> Fork the Workshop repo into your personal remote repository. ⤵️
+> *Note: This makes a copy of the Workshop repository into your own remote repository within GitHub.*
 
 ![image](https://github.com/rhollins8199/TAPS_GitHub_Workshop/assets/103677691/e60bcbc7-29cc-49a7-a37e-6ec126fb4a15) <!-- Replace when Finished -->
 
 - Rename your forked repository `TAPS_GitHub_Workshop_[YourName]`.
 - Copy the `main` branch only
-> *Note: This makes a copy of the Workshop repository into your own remote repository within GitHub.*
 
 <strong>2.</strong> Create a new folder in a location you can easily access/remember (e.g Desktop). 
 - Name it `Workshop_Demo`.
@@ -70,11 +70,11 @@ git config --list
 ---
 
 <strong>4.</strong> In your Git Bash terminal, make sure you are in your `Workshop_Demo` folder and clone your remote repo into the folder.
+> *Note: This makes a copy of the your forked repository into your own local repository within your personal computer.*
+
 ```
 git clone [url]
 ```
-> *Note: This makes a copy of the your forked repository into your own local repository within your personal computer.*
-
 <strong>5.</strong> Change folder directory to be in correct folder location.
 ```
 cd TAPS_GitHub_Workshop_[YourName]
