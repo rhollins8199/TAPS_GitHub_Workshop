@@ -13,8 +13,6 @@ This workshop is broken up into 6 parts:
 
 *Note: Additional Git resources are available within the PowerPoint folder. Download the PDF version of the PPT to access the links.*
 
----
-
 <!-- Part One -->
 
 ## :computer: Part One: Install & Configure Git
@@ -49,8 +47,6 @@ git config --list 'C:/Program Files/Notepad++/notepad++.exe'
 ```
 git config --list
 ```
----
-
 <!-- Part Two -->
 
 ## :fork_and_knife: Part Two: Fork & Clone Repo
@@ -87,7 +83,6 @@ cd TAPS_GitHub_Workshop_[YourName]
 
 
 
----
 ## :cactus: Part Three: Manage Branches
 ## 📝 Part Four: Update & Manage Files
 ## 🔄 Part Five: Sync Forked Repo
