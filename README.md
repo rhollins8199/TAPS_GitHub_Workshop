@@ -11,7 +11,7 @@ This workshop is broken up into 6 parts:
 - **[Part Five:](https://github.com/rhollins8199/TAPS_GitHub_Workshop?tab=readme-ov-file#-part-five-sync-forked-repo)** Sync Forked Repo 🔄
 - **[Part Six:](https://github.com/rhollins8199/TAPS_GitHub_Workshop?tab=readme-ov-file#-part-six-merge-updates-into-workshop-repo)** Merge Updates into Workshop Repo 🤝
 
-*Note: Additional Git resources are available within the PowerPoint folder. We suggest downloading the PDF version of the PPT to access the links.*
+*Note: Additional Git resources are available within the PowerPoint folder. Download the PDF version of the PPT to access the links.*
 
 ---
 
