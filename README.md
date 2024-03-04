@@ -4,12 +4,12 @@
 
 This workshop is broken up into 6 parts:
 
-- **[Part One:](#part-one-install--configure-git)** Install & Configure Git :computer:
-- **[Part Two:](#part-two-fork--clone-repo)** Fork & Clone Repo :fork_and_knife:
-- **[Part Three:](#part-three-manage-branches)** Manage Branches :cactus:
-- **[Part Four:](#part-four-update--manage-files)** Update & Manage Files 📝 
-- **[Part Five:](#part-five-sync-forked-repo)** Sync Forked Repo 🔄
-- **[Part Six:](#part-six-merge-updates-into-workshop-repo)** Merge Updates into Workshop Repo 🤝
+- **[Part One:]([#part-one-install--configure-git](https://github.com/rhollins8199/TAPS_GitHub_Workshop?tab=readme-ov-file#computer-part-one-install--configure-git))** Install & Configure Git :computer:
+- **[Part Two:](https://github.com/rhollins8199/TAPS_GitHub_Workshop?tab=readme-ov-file#fork_and_knife-part-two-fork--clone-repo)** Fork & Clone Repo :fork_and_knife:
+- **[Part Three:]([#part-three-manage-branches](https://github.com/rhollins8199/TAPS_GitHub_Workshop?tab=readme-ov-file#cactus-part-three-manage-branches))** Manage Branches :cactus:
+- **[Part Four:](https://github.com/rhollins8199/TAPS_GitHub_Workshop?tab=readme-ov-file#-part-four-update--manage-files)** Update & Manage Files 📝 
+- **[Part Five:](https://github.com/rhollins8199/TAPS_GitHub_Workshop?tab=readme-ov-file#-part-five-sync-forked-repo)** Sync Forked Repo 🔄
+- **[Part Six:](https://github.com/rhollins8199/TAPS_GitHub_Workshop?tab=readme-ov-file#-part-six-merge-updates-into-workshop-repo)** Merge Updates into Workshop Repo 🤝
 
 *Note: Additional Git resources are available within the PowerPoint folder. We suggest downloading the PDF version of the PPT to access the links.*
 
