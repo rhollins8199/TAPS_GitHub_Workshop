@@ -27,7 +27,7 @@ https://git-scm.com/downloads
 - **Mac:** Open terminal and type `git bash`.
 - **Linux:** Open terminal emulator and type `git bash`.
   
-<strong>3.</strong> To ensure that you have Git installed enter: (You should see something like "*git version 2.40.0*")
+<strong>3.</strong> To ensure that you have Git installed enter: (You should see something like "*git version 2.44.0*")
 ```
 git --version
 ```
