@@ -146,9 +146,9 @@ git push -u origin [YourFirstName]
 <strong>2.</strong> Merge the branches within your forked repo.
 
 <strong>3.</strong> Check to see if merge occured.
-```
-Insights > Network > NetWork Graph
-```
+
+> Forked GitHub Repo > Insights > Network > NetWork Graph
+
 
 
 
