@@ -56,7 +56,7 @@ git config --list
 
 > *Note: This makes a copy of the Workshop repository into your own remote repository within GitHub.*
 
-![image](https://github.com/rhollins8199/TAPS_GitHub_Workshop/assets/103677691/e60bcbc7-29cc-49a7-a37e-6ec126fb4a15) <!-- Replace when Finished -->
+![image](https://github.com/rhollins8199/TAPS_GitHub_Workshop/assets/103677691/09216216-88aa-4aef-b063-6679965d4104)
 
 - Rename your forked repository `TAPS_GitHub_Workshop_[YourName]`.
 - Copy the `main` branch only
@@ -68,7 +68,7 @@ git config --list
   
 <strong>3.</strong> Go to your forked repo and copy the HTTPS link. ⤵️
 
-![image](https://github.com/rhollins8199/TAPS_GitHub_Workshop/assets/103677691/7784d151-d24a-4b75-9bf8-2e203e4e2386)
+![image](https://github.com/rhollins8199/TAPS_GitHub_Workshop/assets/103677691/e29f73d7-778d-471b-b584-d2b95ecb769b)
 
 <strong>4.</strong> In your Git Bash terminal, make sure you are in your `Workshop_Demo` folder and clone your remote repo into the folder.
 
