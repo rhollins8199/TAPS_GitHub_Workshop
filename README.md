@@ -9,7 +9,7 @@ This workshop is broken up into 6 parts:
 - **[Part Three:](https://github.com/rhollins8199/TAPS_GitHub_Workshop?tab=readme-ov-file#cactus-part-three-manage-branches)** Manage Branches :cactus:
 - **[Part Four:](https://github.com/rhollins8199/TAPS_GitHub_Workshop?tab=readme-ov-file#-part-four-update--commit-files)** Update & Commit Files 📝 
 - **[Part Five:](https://github.com/rhollins8199/TAPS_GitHub_Workshop?tab=readme-ov-file#-part-five-push-changes-to-forked-repo)** Push Changes to Forked Repo 🔄
-- **[Part Six:](https://github.com/rhollins8199/TAPS_GitHub_Workshop?tab=readme-ov-file#-part-six-merge-branches--create-pull-request-to-workshop-repo)** Merge Branches & Create Pull Request to Workshop Repo🤝
+- **[Part Six:](https://github.com/rhollins8199/TAPS_GitHub_Workshop?tab=readme-ov-file#-part-six-merge-branches--create-pull-request-to-workshop-repo)** Create Pull Request & Merge Branches within Forked Repo 🤝
 
 *Note: Additional Git resources are available within the PowerPoint folder. Download the PDF version of the PPT to access the links.*
 
@@ -95,8 +95,60 @@ git branch [YourFirstName]
 git checkout [YourFirstName]
 ```
 
-
+<!-------------------------------------------------------------------------------- Part Four -------------------------------------------------------------------------------->
 
 ## 📝 Part Four: Update & Commit Files
+
+<strong>1.</strong> Within your file explorer, locate your `Workshop_Demo` folder then the files folder. Choose at least one file to edit and save it.
+
+<!--------Add Pic Examples------------>
+
+<strong>2.</strong> Within your Git Bash Terminal, enter this command to see the file you changed.
+```
+git status
+```
+
+<strong>3.</strong> To check your changes, enter:
+```
+git show Files/[FileName]
+```
+
+<strong>4.</strong> Next, set up the file to be sent off:
+```
+git add [FileName]
+```
+
+<strong>5.</strong> Check to see if file is staged to be pushed:
+```
+git status
+```
+
+<strong>6.</strong> Send a commit message stating what file you changed (e.g. "Updated [FileName]"):
+```
+git commit -m "Updated [FileName]"
+```
+
+<!-------------------------------------------------------------------------------- Part Five -------------------------------------------------------------------------------->
+
 ## 🔄 Part Five: Push Changes to Forked Repo
-## 🤝 Part Six: Merge Branches & Create Pull Request to Workshop Repo
+
+<strong>1.</strong> Next, send a commit message stating what file you changed (e.g. "Updated [FileName]").
+```
+git push -u origin [YourFirstName]
+```
+
+<!-------------------------------------------------------------------------------- Part Six -------------------------------------------------------------------------------->
+
+## 🤝 Part Six: Create Pull Request & Merge Branches within Forked Repo
+
+<strong>1.</strong> Within GitHub, create a Pull request to merge your branch to the main branch within your forked repo.
+
+<strong>2.</strong> Merge the branches within your forked repo.
+
+<strong>3.</strong> Check to see if merge occured.
+```
+Insights > Network > NetWork Graph
+```
+
+
+
