@@ -1,3 +1,0 @@
-# Insert your age within the brackets:
-
-My age is [Here].
