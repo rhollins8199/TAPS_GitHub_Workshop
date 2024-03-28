@@ -41,7 +41,7 @@ git config --global user.name [firstname lastname]
 git config --global user.email [github email]
 ```
 ```
-git config --list 'C:/Program Files/Notepad++/notepad++.exe'
+git config --global core.editor 'C:/Program Files/Notepad++/notepad++.exe'
 ```
 <strong>6.</strong> Check to see if information updated successfully.
 ```
