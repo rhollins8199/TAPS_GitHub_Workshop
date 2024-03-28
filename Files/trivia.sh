@@ -2,4 +2,4 @@
 
 # Todo: Insert your answer within the parenthesis.
 
-echo "Answer:  $(2005)"
+echo "Answer:  2005"
