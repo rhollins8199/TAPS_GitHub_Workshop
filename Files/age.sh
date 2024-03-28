@@ -1,3 +1,3 @@
 # Todo: Insert your age within the parenthesis.
 
-echo "My age is $(18)."
+echo "My age is 18."
