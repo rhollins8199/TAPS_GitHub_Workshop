@@ -1,3 +1,3 @@
 # Todo: Insert your major within the parenthesis.
 
-echo "My major is $(Here)."
+echo "My major is $(Biology)."
